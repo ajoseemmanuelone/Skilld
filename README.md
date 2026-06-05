@@ -35,34 +35,34 @@ The app is currently in final preparation and will be available on the Google Pl
 ## Features
 
 ### Customer Side
-- 🔐 **Authentication** — Register, login, email verification and forgot password via Firebase Auth
-- 🏠 **Home Screen** — Browse artisan categories and recently joined artisans with pull to refresh
-- 🔍 **Search** — Search artisans by name or category in real time
-- 📋 **Artisan List** — Browse artisans by category with location filter and star ratings
-- 👤 **Artisan Profile** — View full artisan profile with bio, experience, location and work photos
-- 📞 **Direct Contact** — Call or WhatsApp any artisan directly with one tap
-- ❤️ **Save Artisans** — Save favourite artisans for quick access later
-- ⭐ **Ratings & Reviews** — Leave a star rating and written review for artisans
-- 🖼️ **Work Photos** — View artisan's portfolio of work images
-- ✏️ **Edit Profile** — Update name, phone number and profile photo
-- 🔒 **Change Password** — Securely update account password
-- 🗑️ **Delete Account** — Permanently delete account and all associated data
+- **Authentication** — Register, login, email verification and forgot password via Firebase Auth
+- **Home Screen** — Browse artisan categories and recently joined artisans with pull to refresh
+- **Search** — Search artisans by name or category in real time
+- **Artisan List** — Browse artisans by category with location filter and star ratings
+- **Artisan Profile** — View full artisan profile with bio, experience, location and work photos
+- **Direct Contact** — Call or WhatsApp any artisan directly with one tap
+- **Save Artisans** — Save favourite artisans for quick access later
+- **Ratings & Reviews** — Leave a star rating and written review for artisans
+- **Work Photos** — View artisan's portfolio of work images
+- **Edit Profile** — Update name, phone number and profile photo
+- **Change Password** — Securely update account password
+- **Delete Account** — Permanently delete account and all associated data
 
 ### Artisan Side
-- 📝 **Registration** — Register with full profile including category, experience, location and bio
-- ⏳ **Pending Activation** — Profile reviewed and activated by admin within 24 hours
-- 📊 **Dashboard** — View real time profile view count, average rating and recent customer reviews
-- 🖼️ **Work Photos** — Upload up to 6 portfolio photos to showcase work to customers
-- ✏️ **Edit Profile** — Update bio, location, phone and profile photo
-- 🗑️ **Delete Account** — Permanently delete account and all associated data
+- **Registration** — Register with full profile including category, experience, location and bio
+- **Pending Activation** — Profile reviewed and activated by admin within 24 hours
+- **Dashboard** — View real time profile view count, average rating and recent customer reviews
+- **Work Photos** — Upload up to 6 portfolio photos to showcase work to customers
+- **Edit Profile** — Update bio, location, phone and profile photo
+- **Delete Account** — Permanently delete account and all associated data
 
 ### General
-- 🖼️ **Profile & Work Photos** — Upload and update photos via Cloudinary
-- 💾 **Persistent Login** — Stay logged in across app restarts
-- 🎨 **Custom Theme** — Unique Chocolate Truffle color palette
-- 📱 **Smooth Onboarding** — 3 slide onboarding experience shown only on first launch
-- 🔄 **Pull to Refresh** — Refresh data on home, search, saved, profile and artisan screens
-- 🔒 **Firestore Security Rules** — Role based access control protecting user data
+- **Profile & Work Photos** — Upload and update photos via Cloudinary
+- **Persistent Login** — Stay logged in across app restarts
+- **Custom Theme** — Unique Chocolate Truffle color palette
+- **Smooth Onboarding** — 3 slide onboarding experience shown only on first launch
+- **Pull to Refresh** — Refresh data on home, search, saved, profile and artisan screens
+- **Firestore Security Rules** — Role based access control protecting user data
 
 ---
 
