@@ -3,8 +3,8 @@ A two-sided marketplace app built with Flutter and Firebase that connects custom
 
 ---
 
-## 🚀 Coming Soon to Google Play
-The app is currently in final preparation and will be available on the Google Play Store soon. Stay tuned!
+## 🚀 Live On Google Play
+https://play.google.com/store/apps/details?id=com.ajose.skilld
 
 ---
 
