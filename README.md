@@ -3,7 +3,7 @@ A two-sided marketplace app built with Flutter and Firebase that connects custom
 
 ---
 
-## 🚀 Live On Google Play
+## 🚀 Live on Google Play
 https://play.google.com/store/apps/details?id=com.ajose.skilld
 
 ---
